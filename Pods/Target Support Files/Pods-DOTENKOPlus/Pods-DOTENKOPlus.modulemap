@@ -1,0 +1,6 @@
+framework module Pods_DOTENKOPlus {
+  umbrella header "Pods-DOTENKOPlus-umbrella.h"
+
+  export *
+  module * { export * }
+}
