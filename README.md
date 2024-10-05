@@ -15,7 +15,7 @@ DOTENKO Plus is an app that assists with score calculations when playing DOTENKO
 
 ![Screenshot 2024-10-05 at 12 34 08](https://github.com/user-attachments/assets/8e3f78c8-5632-483c-ae95-6f55227e5005)
 
-The UI design was created using Figma. Advanced animations made with After Effects were implemented for each action. We aimed to replicate the appearance of the card hands as realistically as possible, and the Joker was given a special glow to emphasize its rarity.
+The UI design was created using Figma. Validation is applied to input fields such as names and rate numbers to ensure smooth operation.
 
 # Language and Libraries
 - Swift
@@ -30,3 +30,6 @@ SwiftUI is Apple's latest framework for building user interfaces across all Appl
 
 AdMob
 AdMob provides seamless integration of in-app ads for iOS apps, helping developers monetize their apps efficiently with a wide variety of ad formats. AdMob’s detailed analytics and ad-targeting capabilities further enhance app profitability while maintaining a user-friendly experience.
+
+# Architecture
+![Screenshot 2024-10-05 at 13 28 50](https://github.com/user-attachments/assets/2ccb0a72-8700-4102-a8ec-8962a5d25349)
